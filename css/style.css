@@ -1,7 +1,7 @@
 body {
   font-size: 12px;
-  background-color: #ff0000;
-  color: #0000FF;
+  background-color: #BB6BD9;
+  color: #219653;
   line-height: normal;
 }
 
@@ -18,10 +18,12 @@ nav {
 }
 
 .large-pic {
+  background-image: url(images/bloc-logo.png);
   width: 100%;
 }
 
 .medium-pic {
+  background-image: url(images/instagram-pic.jpg);
   width: 70%;
 }
 
