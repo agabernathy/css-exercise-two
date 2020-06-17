@@ -1,6 +1,8 @@
 body {
+  font-size: 12px;
   background-color: #ff0000;
   color: #0000FF;
+  line-height: normal;
 }
 
 nav {
